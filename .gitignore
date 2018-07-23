@@ -1,0 +1,6 @@
+Data/
+*.pyc
+.idea/
+musicDNN.tflearn.meta
+musicDNN.tflearn.index
+musicDNN.tflearn.data-00000-of-00001

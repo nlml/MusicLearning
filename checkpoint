@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Rogue\\DeepAudioClassification-master\\musicDNN.tflearn"
+all_model_checkpoint_paths: "D:\\Rogue\\DeepAudioClassification-master\\musicDNN.tflearn"
